@@ -9,6 +9,11 @@ This app will only require your GPS to turn on, and will leave it on until you r
 
 [Google Play](https://play.google.com/store/apps/details?id=org.bruxo.gpsconnected)
 
+#### GPS Connected Pro
+The Pro version will remove all ads from the GPS Connected app.
+
+[Google Play](https://play.google.com/store/apps/details?id=org.bruxo.gpsconnectedpro)
+
 ## Do Not Sleep
 Do Not Sleep will keep the screen of the device on, as long as its service is running.
 
@@ -17,6 +22,11 @@ The use of this app will cause a high battery drain... Use with caution!
 A simple, yet effective app!
 
 [Google Play](https://play.google.com/store/apps/details?id=org.bruxo.donotsleep)
+
+#### Do Not Sleep Pro
+The Pro version will remove all ads from the Do Not Sleep app.
+
+[Google Play](https://play.google.com/store/apps/details?id=org.bruxo.donotsleeppro)
 
 ## Radar Trap
 Radar Trap helps you avoid being caught in speed camera traps.
@@ -33,5 +43,10 @@ Please feel free to send me suggestions, comments and ideas.
 
 [Google Play](https://play.google.com/store/apps/details?id=org.bruxo.radartrap)
 
-# Contact
+#### Do Not Sleep Pro
+The Pro version will remove all ads from the Radar Trap app.
+
+[Google Play](https://play.google.com/store/apps/details?id=org.bruxo.radartrappro)
+
+# Contacts
 Please open an issue inside Github. I will reply to you.
