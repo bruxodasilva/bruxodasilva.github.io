@@ -12,6 +12,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 This app does not collect any personally identifiable information.
 
+This app collects location information, for example in the form of GPS signals. This location information there not leave the device, nor is it shared with any third party service.
+
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
